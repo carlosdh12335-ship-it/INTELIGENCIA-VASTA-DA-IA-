@@ -1,0 +1,42 @@
+[submodule "external_sources/langchain"]
+	path = external_sources/langchain
+	url = https://github.com/langchain-ai/langchain.git
+[submodule "external_sources/langgraph"]
+	path = external_sources/langgraph
+	url = https://github.com/langchain-ai/langgraph.git
+[submodule "external_sources/crewai"]
+	path = external_sources/crewai
+	url = https://github.com/crewAIInc/crewAI.git
+[submodule "external_sources/microsoft-agent-framework"]
+	path = external_sources/microsoft-agent-framework
+	url = https://github.com/microsoft/agent-framework.git
+[submodule "external_sources/autogen"]
+	path = external_sources/autogen
+	url = https://github.com/microsoft/autogen.git
+[submodule "external_sources/openhands"]
+	path = external_sources/openhands
+	url = https://github.com/OpenHands/OpenHands.git
+[submodule "external_sources/llama_index"]
+	path = external_sources/llama_index
+	url = https://github.com/run-llama/llama_index.git
+[submodule "external_sources/haystack"]
+	path = external_sources/haystack
+	url = https://github.com/deepset-ai/haystack.git
+[submodule "external_sources/mem0"]
+	path = external_sources/mem0
+	url = https://github.com/mem0ai/mem0.git
+[submodule "external_sources/open-webui"]
+	path = external_sources/open-webui
+	url = https://github.com/open-webui/open-webui.git
+[submodule "external_sources/browser-use"]
+	path = external_sources/browser-use
+	url = https://github.com/browser-use/browser-use.git
+[submodule "external_sources/mcp-servers"]
+	path = external_sources/mcp-servers
+	url = https://github.com/modelcontextprotocol/servers.git
+[submodule "external_sources/mcp-python-sdk"]
+	path = external_sources/mcp-python-sdk
+	url = https://github.com/modelcontextprotocol/python-sdk.git
+[submodule "external_sources/github-mcp-server"]
+	path = external_sources/github-mcp-server
+	url = https://github.com/github/github-mcp-server.git
